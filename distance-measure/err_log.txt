@@ -1,0 +1,475 @@
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:7843:(snd_pcm_recover) underrun occurred
+Traceback (most recent call last):
+  File "/home/pi/Desktop/distance-measure/variant_twomode_trigger.py", line 174, in <module>
+    mixer.music.load(os.path.join(MUSIC_DIR, mfile))
+pygame.error: Unknown PCM data format
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+Traceback (most recent call last):
+  File "/home/pi/Desktop/distance-measure/variant_twomode_trigger.py", line 148, in <module>
+    distance = measure()
+  File "/home/pi/Desktop/distance-measure/variant_twomode_trigger.py", line 121, in measure
+    pulse_duration = pulse_end - pulse_start
+UnboundLocalError: local variable 'pulse_start' referenced before assignment
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+
+
+
+
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:7843:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:7843:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:7843:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:7843:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:7843:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+ALSA lib pcm.c:7843:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_dmix.c:1022:(snd_pcm_dmix_open) unable to open slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started

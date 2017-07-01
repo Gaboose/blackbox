@@ -1,0 +1,7 @@
+range_sensor.py - original script (python2) from https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi
+continuous_range_sensor.py - modified script (python3) from above
+audio_trigger.py - modified script (python3) with triggers and audio
+working_audio_trigger.py - modified script (python2) with triggers and audio (audiolab)
+variant_frequency.py - gb's solution to variant sine waves, with callbacks (python3)
+variant_audio_trigger.py - hybrid script which does the job (python3)
+variant_twomode_trigger.py - hybrid script which has two modes (reads file for mode): variant frequency vs. audio file play (python3)
